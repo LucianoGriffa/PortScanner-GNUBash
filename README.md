@@ -1,5 +1,5 @@
 # PortScanner-GNUBash
-This is a python port scan tool that allows you to check the status of ports on a specific host.
+This is a port scan tool that allows you to check the status of ports on a specific host.
 **It is in the process of testing and improvements**
 ```
 ██████╗ ██╗   ██╗     ██████╗ ██████╗ ██╗  ██╗███████╗███████╗ ██████╗
