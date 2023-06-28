@@ -1,4 +1,4 @@
-# PortScanner GNUBash
+# Port Scanner
 This is a simple bash script that allows you to perform port scanning on a target IP address. It utilizes the `nmap` tool to scan for open ports within a specified range and saves the scan results to a file.
 
 ## Prerequisites
