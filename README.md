@@ -10,7 +10,7 @@ This is a simple bash script that allows you to perform port scanning on a targe
 1. Clone the repository and navigate to the script's directory:
 
 ```bash
-git clone https://github.com/G3kSec/PortScanner-GNUBash/
+git clone https://github.com/LucianoGriffa/PortScanner-GNUBash/
 ```
 ```bash
 cd port-scanner
@@ -58,4 +58,4 @@ This script utilizes the `nmap` tool, which is a powerful and versatile network 
 
 ---
 
-**By G3kSec | 2023**
+**By Luciano Griffa | 2023**
